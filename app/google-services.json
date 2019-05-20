@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "486836700264",
+    "firebase_url": "https://puchnotify.firebaseio.com",
+    "project_id": "puchnotify",
+    "storage_bucket": "puchnotify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486836700264:android:ffffd78f573350ac",
+        "android_client_info": {
+          "package_name": "com.example.puch_notify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486836700264-sp4nc2k36f50p3bomq7breu2esuu0d9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.puch_notify",
+            "certificate_hash": "773240ac4fa725ac7478141b7ba977c4755b2ea1"
+          }
+        },
+        {
+          "client_id": "486836700264-bc4ua25c03lv9sbu36pjlpvt8gl1l36h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtoq2DaIjDyxHg7CcghBygpxYJGYMae5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486836700264-bc4ua25c03lv9sbu36pjlpvt8gl1l36h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
