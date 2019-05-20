@@ -8,6 +8,7 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
@@ -70,7 +71,7 @@ public class BooksAdapter extends RecyclerView.Adapter<BooksAdapter.BooksViewHol
 
     public class BooksViewHolder extends RecyclerView.ViewHolder{
 
-        private RelativeLayout bookParentLayout;
+        private LinearLayout bookParentLayout;
         private TextView bookName,url;
         public BooksViewHolder(@NonNull View parentView) {
             super(parentView);
